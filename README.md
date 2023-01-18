@@ -1,2 +1,4 @@
 # saeegadekar14.github.io
-Simple E-Commerce Website
+Responsive E-Commerce Website
+Deployed:
+https://saeegadekar14.github.io
